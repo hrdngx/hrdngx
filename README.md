@@ -37,6 +37,11 @@
 
 
 ---
+### 📈 コミット活動
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hrdngx&theme=dracula&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph)
+
+---
 
 ### その他
 ![なぞの動くオブジェクト](https://raw.githubusercontent.com/hrdngx/hrdngx/main/animated-object.svg)
