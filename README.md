@@ -3,7 +3,7 @@
 
 ## なぞの動くオブジェクト
 
-![なぞの動くオブジェクト](https://<ユーザー名>.github.io/animated-object.svg)
+![なぞの動くオブジェクト](https://hrdngx.github.io/animated-object.svg)
 
 ---
 
