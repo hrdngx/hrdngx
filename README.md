@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### 使用言語
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="40" height="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="40" height="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40">
+
 
 
 <!-- 他のアイコンも追加可能 -->
