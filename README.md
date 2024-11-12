@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 使用言語
+![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
+
+<!-- 他のアイコンも追加可能 -->
+
