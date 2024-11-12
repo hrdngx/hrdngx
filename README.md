@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 遭難
-<img src="https://img.yakkun.com/poke/icon96/n202.gif" alt="sonan" width="70" height="70">
+<img src="https://img.yakkun.com/poke/icon96/n202.gif" alt="sonan" width="150" height="150">
 
 
 
