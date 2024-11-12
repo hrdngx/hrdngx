@@ -1,6 +1,9 @@
 ### しゃもじ
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shakushi.jpg/330px-Shakushi.jpg" alt="Kotlin Logo" width="80" height="80"> 
 
+(https://path.to/your/animated.svg)
+
+
 ---
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
