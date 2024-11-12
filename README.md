@@ -1,7 +1,9 @@
 ### しゃもじ
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shakushi.jpg/330px-Shakushi.jpg" alt="Kotlin Logo" width="80" height="80"> 
 
-(https://hrdngx.github.io/animated-object.svg)
+## なぞの動くオブジェクト
+
+![なぞの動くオブジェクト](https://<ユーザー名>.github.io/animated-object.svg)
 
 ---
 
