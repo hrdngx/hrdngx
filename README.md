@@ -1,10 +1,6 @@
 ### しゃもじ
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shakushi.jpg/330px-Shakushi.jpg" alt="Kotlin Logo" width="80" height="80"> 
 
-![なぞの動くオブジェクト](https://raw.githubusercontent.com/hrdngx/hrdngx/main/animated-object.svg)
-
-
-
 ---
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -43,3 +39,4 @@
 ---
 
 ### その他
+![なぞの動くオブジェクト](https://raw.githubusercontent.com/hrdngx/hrdngx/main/animated-object.svg)
