@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 ### 遭難
-<img src="https://i.pximg.net/c/600x600/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg" alt="Node.js Logo" width="40" height="40">
+![プロフィール画像](https://i.pximg.net/c/600x600/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg)
+
 
 
 <!-- 他のアイコンも追加可能 -->
