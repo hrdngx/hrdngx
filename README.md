@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 遭難
-![プロフィール画像](https://i.pximg.net/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg)
+<img src="https://img.yakkun.com/poke/icon96/n202.gif" alt="sonan" width="40" height="40">
 
+https://img.yakkun.com/poke/icon96/n202.gif
 
 
 <!-- 他のアイコンも追加可能 -->
