@@ -1,4 +1,5 @@
 ### しゃもじ
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!--
 **hrdngx/hrdngx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
