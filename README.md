@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### 使用言語
 ![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="40" height="40">
+
 
 <!-- 他のアイコンも追加可能 -->
 
