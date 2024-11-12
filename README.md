@@ -27,11 +27,11 @@
 
 ---
 
-### ステータス
+### 情報1
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrdngx&theme=dark)](https://git.io/streak-stats)
 
-### ピコ太郎
+### 情報2
 
 ![hrdngx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrdngx&show_icons=true&theme=radical)
 
