@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 遭難
-![プロフィール画像](https://i.pximg.net/c/600x600/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg)
+![プロフィール画像](https://i.pximg.net/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg)
 
 
 
