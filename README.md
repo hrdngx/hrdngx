@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40" height="40">
 </p>
 
+### 遭難
+<img src="https://i.pximg.net/c/600x600/img-master/img/2010/10/14/01/31/53/13869433_p0_master1200.jpg" alt="Node.js Logo" width="40" height="40">
 
 
 <!-- 他のアイコンも追加可能 -->
