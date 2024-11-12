@@ -28,13 +28,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrdngx&theme=dark)](https://git.io/streak-stats)
 
-### 統計情報
+### グラフ？
 
 ![hrdngx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrdngx&show_icons=true&theme=radical)
 
-### フォロワー
-
-![GitHub followers](https://img.shields.io/github/followers/hrdngx?style=social)
 
 ---
 
