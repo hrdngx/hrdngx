@@ -1,4 +1,7 @@
 ### しゃもじ
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shakushi.jpg/330px-Shakushi.jpg" alt="Kotlin Logo" width="80" height="80"> 
+
+---
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +31,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrdngx&theme=dark)](https://git.io/streak-stats)
 
-### グラフ？
+### ピコ太郎
 
 ![hrdngx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrdngx&show_icons=true&theme=radical)
 
