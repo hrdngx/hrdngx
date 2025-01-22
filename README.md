@@ -38,3 +38,6 @@
 
 ### その他
 ![なぞの動くオブジェクト](https://raw.githubusercontent.com/hrdngx/hrdngx/main/animated-object.svg)
+
+vm-2025-j414 is not in the sudoers file.
+This incident will be reported.
